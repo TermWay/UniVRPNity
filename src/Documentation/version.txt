@@ -1,0 +1,8 @@
+# Software version
+UniVRPNity 	:	1.0
+vrpn 		:	7.30 
+vrpnnet 	:	1.11   /!\ Only the dll which is in the zip archive is useable with the .NET framework 3.5.
+				   Indeed, Visual Studio can only compile this project with the .NET framework 4.0.
+Unity		:	3.5.2f2 - 4.2.2f1
+Visual Studio 2010-2012
+
